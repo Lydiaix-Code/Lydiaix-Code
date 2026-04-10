@@ -62,11 +62,11 @@ const Lydiaix = {
 
 ## 📊 GitHub Stats
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Lydiaix-Code&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=1c2128&title_color=539bf5&icon_color=539bf5&text_color=adbac7&cache_seconds=1800" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lydiaix-Code&theme=github_dark" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Lydiaix-Code&theme=github-dark-blue&hide_border=true&background=1C2128&stroke=539BF5&ring=539BF5&fire=E05252&currStreakNum=FFFFFF&sideNums=ADBAC7&currStreakLabel=539BF5&sideLabels=768390&dates=768390&mode=weekly" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lydiaix-Code&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=1c2128&title_color=539bf5&text_color=adbac7&cache_seconds=1800" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lydiaix-Code&theme=github-compact&hide_border=true&bg_color=1c2128&color=539bf5&line=539bf5&point=ffffff&area=true" />
 
 </div>
 
