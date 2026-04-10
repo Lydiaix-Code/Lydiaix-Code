@@ -74,9 +74,9 @@ const Lydiaix = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Overview
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lydiaix-Code&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" />&nbsp;<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" />
 
 </div>
 
