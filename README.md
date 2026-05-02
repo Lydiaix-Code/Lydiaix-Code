@@ -107,10 +107,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vR54mFqzJgGaU8g/giphy.gif" width="100%" alt="mr robot" />
-
-<br/><br/>
-
 [![ai](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=1400&color=539BF5&center=true&vCenter=true&width=600&lines=I+don%27t+open+VS+Code.;I+open+a+conversation.;Claude+doesn%27t+replace+me.;It+amplifies+me.)](https://github.com/Lydiaix-Code)
 
 <br/>
