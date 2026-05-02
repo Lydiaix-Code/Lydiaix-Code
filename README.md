@@ -73,7 +73,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-01+%5D+SENTINEL-PROBE&fontSize=18&fontColor=539bf5&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-01+%5D+SENTINEL-PROBE&fontSize=18&fontColor=ffffff&fontAlignY=65" />
 
 <br/>
 
@@ -87,7 +87,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-02+%5D+PIXELBLEU&fontSize=18&fontColor=539bf5&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-02+%5D+PIXELBLEU&fontSize=18&fontColor=ffffff&fontAlignY=65" />
 
 <br/>
 
