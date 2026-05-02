@@ -111,7 +111,7 @@ const MEHDI = {
 
 <br/>
 
-[![Sentinel-Probe](https://github-readme-stats.vercel.app/api/pin/?username=Lydiaix-Code&repo=Sentinel-Probe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&icon_color=539bf5&text_color=c9d1d9)](https://github.com/Lydiaix-Code/Sentinel-Probe)
+[![Sentinel-Probe](https://gh-card.dev/repos/Lydiaix-Code/Sentinel-Probe.svg?fullname=1&theme=dark)](https://github.com/Lydiaix-Code/Sentinel-Probe)
 
 *Async web vulnerability scanner — built with the adversary's mindset.*
 
@@ -123,7 +123,7 @@ const MEHDI = {
 
 <br/>
 
-[![PixelBleu](https://github-readme-stats.vercel.app/api/pin/?username=Lydiaix-Code&repo=PixelBleu&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&icon_color=539bf5&text_color=c9d1d9)](https://github.com/Lydiaix-Code/PixelBleu)
+[![PixelBleu](https://gh-card.dev/repos/Lydiaix-Code/PixelBleu.svg?fullname=1&theme=dark)](https://github.com/Lydiaix-Code/PixelBleu)
 
 *Exposed secrets detector — because developers forget. I don't.*
 
@@ -239,11 +239,11 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Lydiaix-Code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&icon_color=539bf5&text_color=c9d1d9&count_private=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lydiaix-Code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&text_color=c9d1d9&langs_count=8" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" />
 
 <br/>
 
