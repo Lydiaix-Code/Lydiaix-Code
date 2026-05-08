@@ -87,18 +87,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-02+%5D+PIXELBLEU&fontSize=18&fontColor=ffffff&fontAlignY=65" />
-
-<br/>
-
-<a href="https://github.com/Lydiaix-Code/PixelBleu">
-  <img width="100%" src="https://gh-card.dev/repos/Lydiaix-Code/PixelBleu.svg?fullname=1&theme=dark" alt="PixelBleu" />
-</a>
-
-*Exposed secrets detector — because developers forget. I don't.*
-
-`Python` · `CI/CD` · `Git Hooks` · `Security`
-
 </div>
 
 <br/>
