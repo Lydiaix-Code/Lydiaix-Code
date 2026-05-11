@@ -256,7 +256,7 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-*⚡ Built with Claude Code — Zero VS Code — France 🇫🇷 ⚡*
+*⚡ Built with Claude Code ⚡*
 
 </div>
 
