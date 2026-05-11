@@ -1,16 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=300&section=header&text=LYDIAIX%20CODE&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Architect.%20Hunter.%20Builder.&descSize=20&descColor=539bf5&descAlignY=76&fontAlignY=43" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=280&section=header&text=LYDIAIX%20CODE&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Architect.%20Hunter.%20Builder.&descSize=18&descColor=539bf5&descAlignY=76&fontAlignY=43" />
 
 <div align="center">
 
-[![boot](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1500&pause=900&color=539BF5&center=true&vCenter=true&width=600&lines=%E2%96%BA+KERNEL+INIT...;%E2%96%BA+SECURITY+LAYER+%E2%9C%93+ACTIVE;%E2%96%BA+CLAUDE+INTERFACE+%E2%9C%93+ONLINE;%E2%96%BA+HUMAN+DETECTED+%E2%80%94+Bonjour.+%F0%9F%87%AB%F0%9F%87%B7)](https://github.com/Lydiaix-Code)
+[![boot](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1500&pause=900&color=539BF5&center=true&vCenter=true&width=480&lines=%E2%96%BA+KERNEL+INIT...;%E2%96%BA+SECURITY+LAYER+%E2%9C%93+ACTIVE;%E2%96%BA+CLAUDE+INTERFACE+%E2%9C%93+ONLINE;%E2%96%BA+HUMAN+DETECTED+%E2%80%94+Bonjour.+%F0%9F%87%AB%F0%9F%87%B7)](https://github.com/lydiaix-code)
 
 <br/>
 
 ![visitors](https://komarev.com/ghpvc/?username=Lydiaix-Code&style=for-the-badge&color=539bf5&labelColor=0d1117&label=INTRUSIONS)
 &nbsp;
-[![network](https://img.shields.io/github/followers/Lydiaix-Code?style=for-the-badge&color=539bf5&labelColor=0d1117&logo=github&logoColor=white&label=NETWORK)](https://github.com/Lydiaix-Code?tab=followers)
-&nbsp;
-[![hire](https://img.shields.io/badge/💼-Available-539bf5?style=for-the-badge&labelColor=0d1117)](https://mehdi-benaiad-freelance.com)
+[![network](https://img.shields.io/github/followers/Lydiaix-Code?style=for-the-badge&color=539bf5&labelColor=0d1117&logo=github&logoColor=white&label=NETWORK)](https://github.com/lydiaix-code?tab=followers)
 
 </div>
 
@@ -24,7 +22,7 @@
 
 <br/><br/>
 
-🧬 **Mehdi** — Lydiaix-Code
+🧬 **Lydiaix-Code**
 📍 France 🇫🇷
 ⚡ Security Architect × Vibe Coder
 🤖 Claude Code — exclusively
@@ -44,11 +42,11 @@
 
 <div align="center">
 
-[![philosophy](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=3500&pause=2500&color=C9D1D9&center=true&vCenter=true&width=600&lines=LA+S%C3%89CURIT%C3%89+N%27EST+PAS+UNE+OPTION.;SECURITY+IS+NOT+A+FEATURE.;IT+IS+THE+ARCHITECTURE+ITSELF.)](https://github.com/Lydiaix-Code)
+[![philosophy](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3500&pause=2500&color=C9D1D9&center=true&vCenter=true&width=480&lines=LA+S%C3%89CURIT%C3%89+N%27EST+PAS+UNE+OPTION.;SECURITY+IS+NOT+A+FEATURE.;IT+IS+THE+ARCHITECTURE+ITSELF.)](https://github.com/lydiaix-code)
 
 <br/>
 
-<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="200" alt="thinking" />
+<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="180" alt="thinking" />
 
 <br/><br/>
 
@@ -73,7 +71,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=55&text=%5B+OP-01+%5D+SENTINEL-PROBE&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=50&text=%5B+OP-01+%5D+SENTINEL-PROBE&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 <br/>
 
@@ -87,6 +85,20 @@
 
 <br/><br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,2&height=50&text=%5B+OP-02+%5D+COTIZPRO&fontSize=16&fontColor=ffffff&fontAlignY=65" />
+
+<br/>
+
+<a href="https://github.com/Lydiaix-Code/cotizpro">
+  <img width="100%" src="https://gh-card.dev/repos/Lydiaix-Code/cotizpro.svg?fullname=1&theme=dark" alt="CotizPro" />
+</a>
+
+*Professional subscription & contribution management — built for scale.*
+
+`TypeScript` · `Node.js` · `React` · `API`
+
+<br/><br/>
+
 </div>
 
 <br/>
@@ -95,7 +107,7 @@
 
 <div align="center">
 
-[![ai](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=1400&color=539BF5&center=true&vCenter=true&width=600&lines=I+don%27t+open+VS+Code.;I+open+a+conversation.;Claude+doesn%27t+replace+me.;It+amplifies+me.)](https://github.com/Lydiaix-Code)
+[![ai](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=1400&color=539BF5&center=true&vCenter=true&width=480&lines=I+don%27t+open+VS+Code.;I+open+a+conversation.;Claude+doesn%27t+replace+me.;It+amplifies+me.)](https://github.com/lydiaix-code)
 
 <br/>
 
@@ -178,13 +190,10 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" />
 
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" />
-
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Lydiaix-Code&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=539BF5&ring=539BF5&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=539BF5&sideLabels=768390&dates=768390" />
 
@@ -194,7 +203,7 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Lydiaix-Code&theme=algolia&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Lydiaix-Code)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Lydiaix-Code&theme=algolia&no-frame=true&row=1&column=4&margin-w=8&margin-h=8)](https://github.com/lydiaix-code)
 
 </div>
 
@@ -204,11 +213,11 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <div align="center">
 
-[![manifesto](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=4500&pause=3500&color=C9D1D9&center=true&vCenter=true&width=600&lines=LE+SILENCE+DU+CODE+QUI+FONCTIONNE.;THE+SILENCE+OF+CODE+THAT+WORKS.)](https://github.com/Lydiaix-Code)
+[![manifesto](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4500&pause=3500&color=C9D1D9&center=true&vCenter=true&width=480&lines=LE+SILENCE+DU+CODE+QUI+FONCTIONNE.;THE+SILENCE+OF+CODE+THAT+WORKS.)](https://github.com/lydiaix-code)
 
 <br/>
 
-<img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="260" alt="focus" />
+<img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="220" alt="focus" />
 
 <br/><br/>
 
@@ -226,7 +235,7 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 > *Je ne code pas moins qu'avant.*
 > *Je code plus profondément.*
 >
-> — **Mehdi, Lydiaix-Code**
+> — **Lydiaix-Code**
 
 </div>
 
@@ -236,9 +245,7 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <div align="center">
 
-[![github](https://img.shields.io/badge/GitHub-@Lydiaix--Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lydiaix-Code)
-&nbsp;
-[![hire](https://img.shields.io/badge/💼_Hire_Me-Freelance-539bf5?style=for-the-badge&labelColor=0d1117)](https://mehdi-benaiad-freelance.com)
+[![github](https://img.shields.io/badge/GitHub-@Lydiaix--Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lydiaix-code)
 
 <br/>
 
@@ -248,4 +255,4 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=150&section=footer&animation=twinkling&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=140&section=footer&animation=twinkling&reversal=true" />
