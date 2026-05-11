@@ -79,7 +79,7 @@
 <br/>
 
 <a href="https://github.com/Lydiaix-Code/Sentinel-Probe">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=80&text=Sentinel-Probe&desc=Async+vulnerability+scanner+·+Python+·+Asyncio+·+OWASP+·+CVE&fontSize=22&descSize=13&fontColor=539bf5&descColor=c9d1d9&fontAlignY=38&descAlignY=68" alt="Sentinel-Probe" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=Sentinel-Probe&desc=Async+vulnerability+scanner+·+Python+·+Asyncio+·+OWASP+·+CVE&fontSize=22&descSize=13&fontColor=539bf5&descColor=c9d1d9&fontAlignY=38&descAlignY=68" alt="Sentinel-Probe" />
 </a>
 
 *Async web vulnerability scanner — built with the adversary's mindset.*
@@ -93,7 +93,7 @@
 <br/>
 
 <a href="https://github.com/Lydiaix-Code/cotizpro">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,2&height=80&text=CotizPro&desc=Subscription+%26+contribution+management+·+TypeScript+·+Node.js+·+React&fontSize=22&descSize=13&fontColor=539bf5&descColor=c9d1d9&fontAlignY=38&descAlignY=68" alt="CotizPro" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=CotizPro&desc=Subscription+%26+contribution+management+·+TypeScript+·+Node.js+·+React&fontSize=22&descSize=13&fontColor=539bf5&descColor=c9d1d9&fontAlignY=38&descAlignY=68" alt="CotizPro" />
 </a>
 
 *Professional subscription & contribution management — built for scale.*
