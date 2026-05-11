@@ -79,7 +79,7 @@
 <br/>
 
 <a href="https://github.com/Lydiaix-Code/Sentinel-Probe">
-  <img width="100%" src="https://gh-card.dev/repos/Lydiaix-Code/Sentinel-Probe.svg?fullname=1&theme=dark" alt="Sentinel-Probe" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lydiaix-Code&repo=Sentinel-Probe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&text_color=c9d1d9&icon_color=539bf5" alt="Sentinel-Probe" />
 </a>
 
 *Async web vulnerability scanner — built with the adversary's mindset.*
@@ -93,7 +93,7 @@
 <br/>
 
 <a href="https://github.com/Lydiaix-Code/cotizpro">
-  <img width="100%" src="https://gh-card.dev/repos/Lydiaix-Code/cotizpro.svg?fullname=1&theme=dark" alt="CotizPro" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lydiaix-Code&repo=cotizpro&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=539bf5&text_color=c9d1d9&icon_color=539bf5" alt="CotizPro" />
 </a>
 
 *Professional subscription & contribution management — built for scale.*
@@ -173,12 +173,11 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 **— Security —**
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![CVE](https://img.shields.io/badge/CVE_Research-FF0000?style=flat-square&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
+![CVE](https://img.shields.io/badge/CVE_Research-CC0000?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -198,11 +197,10 @@ The skill is **knowing exactly what you want** — and articulating it with enou
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" />
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" />
+<table width="100%"><tr>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lydiaix-Code&theme=github_dark" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lydiaix-Code&theme=github_dark" /></td>
+</tr></table>
 
 <br/>
 
